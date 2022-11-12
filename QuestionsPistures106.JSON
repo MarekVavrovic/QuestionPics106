@@ -1,0 +1,1062 @@
+[
+ {
+   "Id": 1,
+   "question": "Which of these countries remained neutral during World War II?",
+   "choice1": "United Kingdom",
+   "choice2": "France",
+   "choice3": "Spain",
+   "choice4": "Switzerland",
+   "answer": 4,
+   "URL": ""
+ },
+ {
+   "Id": 2,
+   "question": "In which year did the Invasion of Kuwait by Iraq occur?",
+   "choice1": "1988",
+   "choice2": "1993",
+   "choice3": "1990",
+   "choice4": "1987",
+   "answer": 3,
+   "URL": ""
+ },
+ {
+   "Id": 3,
+   "question": "What was the first sport to have been played on the moon?",
+   "choice1": "Football",
+   "choice2": "Golf",
+   "choice3": "Tennis",
+   "choice4": "Long jump",
+   "answer": 2,
+   "URL": ""
+ },
+ {
+   "Id": 4,
+   "question": "How long did World War II last?",
+   "choice1": "6 years",
+   "choice2": "5 years",
+   "choice3": "7 years",
+   "choice4": "never happened",
+   "answer": 1,
+   "URL": ""
+ },
+ {
+   "Id": 5,
+   "question": "Which modern country is known as: The Graveyard of Empires?",
+   "choice1": "Russia",
+   "choice2": "USA",
+   "choice3": "China",
+   "choice4": "Afghanistan",
+   "answer": 4,
+   "URL": ""
+ },
+ {
+   "Id": 6,
+   "question": "Who was the first American in space?",
+   "choice1": "Alan Shephard",
+   "choice2": "Neil Armstrong",
+   "choice3": "John Glenn",
+   "choice4": "Jim Lovell",
+   "answer": 1,
+   "URL": ""
+ },
+ {
+   "Id": 7,
+   "question": "Virgin Trains, Virgin Atlantic and Virgin Racing, are all companies owned by which famous entrepreneur?",
+   "choice1": "Alan Sugar",
+   "choice2": "Richard Branson",
+   "choice3": "Donald Trump",
+   "choice4": "Bill Gates",
+   "answer": 2,
+   "URL": ""
+ },
+ {
+   "Id": 8,
+   "question": "When was the Playstation 3 released?",
+   "choice1": "January 8, 2007",
+   "choice2": "December 25, 2007",
+   "choice3": "July 16, 2006",
+   "choice4": "November 11, 2006",
+   "answer": 4,
+   "URL": ""
+ },
+ {
+   "Id": 9,
+   "question": "What name did Tom Hanks give to his volleyball companion in the film Cast Away?",
+   "choice1": "Friday",
+   "choice2": "Jones",
+   "choice3": "Wilson",
+   "choice4": "Billy",
+   "answer": 3,
+   "URL": ""
+ },
+ {
+   "Id": 10,
+   "question": "Which actress danced the twist with John Travolta in Pulp Fiction movie?",
+   "choice1": "Bridget Fonda",
+   "choice2": "Uma Thurman",
+   "choice3": "Kathy Griffin",
+   "choice4": "Pam Grier",
+   "answer": 2,
+   "URL": ""
+ },
+ {
+   "Id": 11,
+   "question": "What movie contains the quote: Nobody puts Baby in a corner?",
+   "choice1": "Three Men and a Baby",
+   "choice2": "Pretty in Pink",
+   "choice3": "Dirty Dancing",
+   "choice4": "Criminal Minds Season 1",
+   "answer": 3,
+   "URL": ""
+ },
+ {
+   "Id": 12,
+   "question": "What is the oldest Disney film?",
+   "choice1": "Snow White and the Seven Dwarfs",
+   "choice2": "Pinocchio",
+   "choice3": "Fantasia",
+   "choice4": "Dumbo",
+   "answer": 1,
+   "URL": ""
+ },
+ {
+   "Id": 13,
+   "question": "Angie has (1/7) of a cake, Bobbie has (2/7), Marek has the rest. What fraction of the cake does Marek have?",
+   "choice1": "(3/7)",
+   "choice2": "(4/7)",
+   "choice3": "(2/7)",
+   "choice4": "(5/7)",
+   "answer": 2,
+   "URL": ""
+ },
+ {
+   "Id": 14,
+   "question": "Jane ate (1/8) of a pizza, John ate (3/4). What fraction of the piza did they eat altogether?",
+   "choice1": "(6/8)",
+   "choice2": "(7/8)",
+   "choice3": "(4/12)",
+   "choice4": "(5/8)",
+   "answer": 2,
+   "URL": ""
+ },
+ {
+   "Id": 15,
+   "question": "A square cake is cut into 16 equal parts. Bill eats (7/16) and Belle (1/4) of the cake. What franction of the cake is left?",
+   "choice1": "(11/16)",
+   "choice2": "(10/20)",
+   "choice3": "(5/16)",
+   "choice4": "(7/16)",
+   "answer": 3,
+   "URL": ""
+ },
+ {
+   "Id": 16,
+   "question": "Express 5% as a fraction.",
+   "choice1": "(1/5)",
+   "choice2": "(1/20)",
+   "choice3": "(1/2)",
+   "choice4": "(3/4)",
+   "answer": 2,
+   "URL": ""
+ },
+ {
+   "Id": 17,
+   "question": "What is the fastest land animal?",
+   "choice1": "Lion",
+   "choice2": "Tiger",
+   "choice3": "Cheetah",
+   "choice4": "Pronghorn Antelope",
+   "answer": 3,
+   "URL": ""
+ },
+ {
+   "Id": 18,
+   "question": "How many legs do butterflies have?",
+   "choice1": "6",
+   "choice2": "4",
+   "choice3": "8",
+   "choice4": "2",
+   "answer": 1,
+   "URL": ""
+ },
+ {
+   "Id": 19,
+   "question": "By definition, where does an abyssopelagic animal live?",
+   "choice1": "Inside a tree",
+   "choice2": "On top of a mountain",
+   "choice3": "In the desert",
+   "choice4": "At the bottom of the ocean",
+   "answer": 4,
+   "URL": ""
+ },
+ {
+   "Id": 20,
+   "question": "How many teeth does an adult rabbit have?",
+   "choice1": "28",
+   "choice2": "4",
+   "choice3": "6",
+   "choice4": "8",
+   "answer": 1,
+   "URL": ""
+ },
+ {
+   "Id": 21,
+   "question": "Which German field marshal was known as the Desert Fox?",
+   "choice1": "Ernst Busch",
+   "choice2": "Erwin Rommel",
+   "choice3": "Wolfram Freiherr von Richthofen",
+   "choice4": "Wilhelm List",
+   "answer": 2,
+   "URL": ""
+ },
+ {
+   "Id": 22,
+   "question": "How many times have humans been to the Moon?",
+   "choice1": "0",
+   "choice2": "3",
+   "choice3": "6",
+   "choice4": "5",
+   "answer": 3,
+   "URL": ""
+ },
+ {
+   "Id": 23,
+   "question": "In which year was US President John F. Kennedy assassinated?",
+   "choice1": "1966",
+   "choice2": "1963",
+   "choice3": "1967",
+   "choice4": "1970",
+   "answer": 2,
+   "URL": ""
+ },
+ {
+   "Id": 24,
+   "question": "Name a plumber who invented the flushing toilet.",
+   "choice1": "Steve Jobs",
+   "choice2": "Jamie Oliver",
+   "choice3": "Walt Disney",
+   "choice4": "Thomas Crapper",
+   "answer": 4,
+   "URL": ""
+ },
+ {
+   "Id": 25,
+   "question": "The Ottoman Empire was dissolved after their loss in which war?",
+   "choice1": "Crimean War",
+   "choice2": "World War I",
+   "choice3": "Serbian Revolution",
+   "choice4": "Second Balkan War",
+   "answer": 2,
+   "URL": ""
+ },
+ {
+   "Id": 26,
+   "question": "Which famous military commander marched an army, which included war elephants, over the Alps during the Second Punic War?",
+   "choice1": "Alexander the Great",
+   "choice2": "Garmanicus",
+   "choice3": "Hannibal",
+   "choice4": "Tiberius",
+   "answer": 3,
+   "URL": ""
+ },
+ {
+   "Id": 27,
+   "question": "If soccer is called football in England, what is American football called in England?",
+   "choice1": "Handball",
+   "choice2": "American football",
+   "choice3": "Touchdown",
+   "choice4": "Gruppen sex",
+   "answer": 2,
+   "URL": ""
+ },
+ {
+   "Id": 28,
+   "question": "Harvard University is located in which city?",
+   "choice1": "Harvard",
+   "choice2": "Cambridge",
+   "choice3": "Washington D.C.",
+   "choice4": "New York",
+   "answer": 2,
+   "URL": ""
+ },
+ {
+   "Id": 29,
+   "question": "Which country is located between the borders of France and Spain?",
+   "choice1": "Andorra",
+   "choice2": "Portugal",
+   "choice3": "Lichtenstein",
+   "choice4": "Vatican",
+   "answer": 1,
+   "URL": ""
+ },
+ {
+   "Id": 30,
+   "question": "Where would you find the - Spanish Steps?",
+   "choice1": "Rome, Italy",
+   "choice2": "Barcelona, Spain",
+   "choice3": "London, England",
+   "choice4": "Berlin, Germany",
+   "answer": 1,
+   "URL": ""
+ },
+ {
+   "Id": 31,
+   "question": "The ancient Roman god of war was commonly known as which of the following?",
+   "choice1": "Ares",
+   "choice2": "Zeus",
+   "choice3": "Mars",
+   "choice4": "Snickers",
+   "answer": 3,
+   "URL": ""
+ },
+ {
+   "Id": 32,
+   "question": "Who was the King of Gods in Ancient Greek mythology?",
+   "choice1": "Zeus",
+   "choice2": "Apollo",
+   "choice3": "Satan",
+   "choice4": "Jesus",
+   "answer": 1,
+   "URL": ""
+ },
+ {
+   "Id": 33,
+   "question": "Which figure from Greek mythology travelled to the underworld to return his wife Eurydice to the land of the living?",
+   "choice1": "Hercules",
+   "choice2": "Orpheus",
+   "choice3": "Xena",
+   "choice4": "Daedalus",
+   "answer": 2,
+   "URL": ""
+ },
+ {
+   "Id": 34,
+   "question": "In Greek mythology, who is the god of wine?",
+   "choice1": "Hephaestus",
+   "choice2": "Apollo",
+   "choice3": "Dionysus",
+   "choice4": "Vinea",
+   "answer": 3,
+   "URL": ""
+ },
+ {
+   "Id": 35,
+   "question": "In most traditions, who was the wife of Zeus?",
+   "choice1": "Aphrodite",
+   "choice2": "Hera",
+   "choice3": "Athena",
+   "choice4": "Mona Lisa",
+   "answer": 2,
+   "URL": ""
+ },
+ {
+   "Id": 36,
+   "question": "Which of these mythological creatures is said to be half-man and half-horse?",
+   "choice1": "Minotaur",
+   "choice2": "Pegasus",
+   "choice3": "Centaur",
+   "choice4": "Duatron",
+   "answer": 3,
+   "URL": ""
+ },
+ {
+   "Id": 37,
+   "question": "What mythological creatures have women's faces and vulture’s bodies?",
+   "choice1": "Mermaids",
+   "choice2": "Harpies",
+   "choice3": "Nymph",
+   "choice4": "Lilith",
+   "answer": 2,
+   "URL": ""
+ },
+ {
+   "Id": 38,
+   "question": "Which of the following chemicals are found in eggplant seeds?",
+   "choice1": "Nicotine",
+   "choice2": "Mescaline",
+   "choice3": "Cyanide",
+   "choice4": "Psilocybin",
+   "answer": 1,
+   "URL": ""
+ },
+ {
+   "Id": 39,
+   "question": "Who starred in the film 1973 movie: Enter The Dragon?",
+   "choice1": "Jackie Chan",
+   "choice2": "Bruce Lee",
+   "choice3": "Jack Nicholson",
+   "choice4": "Clint Eastwood",
+   "answer": 2,
+   "URL": ""
+ },
+ {
+   "Id": 40,
+   "question": "The hammer and sickle are one of the most recognisable symbols of which political ideology?",
+   "choice1": "Republicanism",
+   "choice2": "Communism",
+   "choice3": "Conservatism",
+   "choice4": "Liberalism",
+   "answer": 2,
+   "URL": ""
+ },
+ {
+   "Id": 41,
+   "question": "A person with well-developed abdominal muscles is said to have a what?",
+   "choice1": "One-pack",
+   "choice2": "Family-pack",
+   "choice3": "Six-pack",
+   "choice4": "Ten-pack",
+   "answer": 3,
+   "URL": ""
+ },
+ {
+   "Id": 42,
+   "question": "Where did Scotch whisky originate?",
+   "choice1": "Wales",
+   "choice2": "Scotland",
+   "choice3": "USA",
+   "choice4": "Ireland",
+   "answer": 2,
+   "URL": ""
+ },
+ {
+   "Id": 43,
+   "question": "Which of these pairs of apps offers roughly the same type of service?",
+   "choice1": "WhatsApp and SHAREit",
+   "choice2": "TikTok and Spotify",
+   "choice3": "Lyft and Uber",
+   "choice4": "Snapchat and GitHub",
+   "answer": 3,
+   "URL": ""
+ },
+ {
+   "Id": 44,
+   "question": "What sort of animal is Walt Disney's Dumbo?",
+   "choice1": "Deer",
+   "choice2": "Rabbit",
+   "choice3": "Elephant",
+   "choice4": "Donkey",
+   "answer": 3,
+   "URL": ""
+ },
+ {
+   "Id": 45,
+   "question": "The word \"aristocracy\" literally means power in the hands of whom?",
+   "choice1": "The few",
+   "choice2": "The best",
+   "choice3": "The barons",
+   "choice4": "The rich",
+   "answer": 2,
+   "URL": ""
+ },
+ {
+   "Id": 46,
+   "question": "Complete the sequence of numbers: 8, 14 ,22, 32,",
+   "choice1": "24",
+   "choice2": "44",
+   "choice3": "46",
+   "choice4": "28",
+   "answer": 2,
+   "URL": ""
+ },
+ {
+   "Id": 47,
+   "question": "Which one of the 4 choices makes the best comparison? FINGER is to REGNIF as 46251 is to:",
+   "choice1": "15246",
+   "choice2": "15262",
+   "choice3": "15264",
+   "choice4": "15263",
+   "answer": 3,
+   "URL": ""
+ },
+ {
+   "Id": 48,
+   "question": "A massive 35% increase on the old rate. If the old interest rate was 4%, what will the new rate be?",
+   "choice1": "5.40%",
+   "choice2": "6.15%",
+   "choice3": "34%",
+   "choice4": "35%",
+   "answer": 1,
+   "URL": ""
+ },
+ {
+   "Id": 49,
+   "question": "Interest Rates Increase from 2.5% to 3.25%. Which one of the following is NOT correct?",
+   "choice1": "Interest rates rose by 0.75 percentage points",
+   "choice2": "Interest rates rose by 30%",
+   "choice3": "Interest rates rose by 23%",
+   "choice4": "Interest rates rose by 75 basis points",
+   "answer": 3,
+   "URL": ""
+ },
+ {
+   "Id": 50,
+   "question": "The ratio of black cars to coloured cars in the car park is (3 : 7). What fraction of the cars in the car park are black?",
+   "choice1": "(3/7)",
+   "choice2": "(7/10)",
+   "choice3": "(3/10)",
+   "choice4": "(7/3)",
+   "answer": 3,
+   "URL": ""
+ },
+ {
+   "Id": 51,
+   "question": "Which of the following liquids would boil the quickest?",
+   "choice1": "Alcohol",
+   "choice2": "Water",
+   "choice3": "Mercury",
+   "choice4": "Gold",
+   "answer": 1,
+   "URL": ""
+ },
+ {
+   "Id": 52,
+   "question": "What colour should you avoid painting your car if you don’t want it to overheat quickly on a sunny day?",
+   "choice1": "Any reflective colour",
+   "choice2": "Bright white",
+   "choice3": "Silver",
+   "choice4": "Matte black",
+   "answer": 4,
+   "URL": ""
+ },
+ {
+   "Id": 53,
+   "question": "Which letter represents north-east?",
+   "choice1": "A",
+   "choice2": "B",
+   "choice3": "C",
+   "choice4": "D",
+   "answer": 4,
+   "URL": "https://res.cloudinary.com/diaagpm3o/image/upload/v1668195758/samples/Quiz/Q53_qafno1.jpg"
+ },
+ {
+   "Id": 54,
+   "question": "How many revolutions per second is C turning?",
+   "choice1": "5",
+   "choice2": "10",
+   "choice3": "20",
+   "choice4": "40",
+   "answer": 2,
+   "URL": "https://res.cloudinary.com/diaagpm3o/image/upload/v1668195974/samples/Quiz/Q54_bbykij.jpg"
+ },
+ {
+   "Id": 55,
+   "question": "Which line on the graph best represents the acceleration of a car moving away after traffic lights?",
+   "choice1": "A",
+   "choice2": "B",
+   "choice3": "C",
+   "choice4": "D",
+   "answer": 3,
+   "URL": "https://res.cloudinary.com/diaagpm3o/image/upload/v1668196368/samples/Quiz/Q55_lv7ej8.jpg"
+ },
+ {
+   "Id": 56,
+   "question": "Which container is being represented in this graph as it is filled with water?",
+   "choice1": "A",
+   "choice2": "B",
+   "choice3": "C",
+   "choice4": "D",
+   "answer": 2,
+   "URL": "https://res.cloudinary.com/diaagpm3o/image/upload/v1668196554/samples/Quiz/Q56_nrmmaz.jpg"
+ },
+ {
+   "Id": 57,
+   "question": "Which magnets will repel each other?",
+   "choice1": "None of them",
+   "choice2": "All of them",
+   "choice3": "Pairs B and C",
+   "choice4": "Pairs A and D",
+   "answer": 4,
+   "URL": "https://res.cloudinary.com/diaagpm3o/image/upload/v1668196734/samples/Quiz/Q57_r7pyj2.jpg"
+ },
+ {
+   "Id": 58,
+   "question": "A farmer wants to put a barrel in front of this gate to keep it shut. Which location will keep the gate closed best",
+   "choice1": "A",
+   "choice2": "B",
+   "choice3": "C",
+   "choice4": "NONE",
+   "answer": 1,
+   "URL": "https://res.cloudinary.com/diaagpm3o/image/upload/v1668197450/samples/Quiz/Q58_ncx8fv.jpg"
+ },
+ {
+   "Id": 59,
+   "question": "At which position will the pendulum normally travel the fastest?",
+   "choice1": "A",
+   "choice2": "B",
+   "choice3": "C",
+   "choice4": "D",
+   "answer": 3,
+   "URL": "https://res.cloudinary.com/diaagpm3o/image/upload/v1668198134/samples/Quiz/Q59_pxu7ak.jpg"
+ },
+ {
+   "Id": 60,
+   "question": "How many lamps will be lit if switch 1 is closed?",
+   "choice1": "1",
+   "choice2": "2",
+   "choice3": "3",
+   "choice4": "0",
+   "answer": 1,
+   "URL": "https://res.cloudinary.com/diaagpm3o/image/upload/v1668198459/samples/Quiz/Q60_azn5rx.jpg"
+ },
+ {
+   "Id": 61,
+   "question": "In which direction should the acrobat move his body to balance the seesaw?",
+   "choice1": "A",
+   "choice2": "B",
+   "choice3": "C",
+   "choice4": "D",
+   "answer": 2,
+   "URL": "https://res.cloudinary.com/diaagpm3o/image/upload/v1668198937/samples/Quiz/Q61_kjehzy.jpg"
+ },
+ {
+   "Id": 62,
+   "question": "Which of the three following diagrams is correct?",
+   "choice1": "A",
+   "choice2": "B",
+   "choice3": "C",
+   "choice4": "NONE",
+   "answer": 1,
+   "URL": "https://res.cloudinary.com/diaagpm3o/image/upload/v1668199245/samples/Quiz/Q62_mpt3bb.jpg"
+ },
+ {
+   "Id": 63,
+   "question": "Who painted the Mona Lisa?",
+   "choice1": "Marek Vavrovic",
+   "choice2": "Leonardo da Vinci",
+   "choice3": "Donatello",
+   "choice4": "Jan van Eyck",
+   "answer": 2,
+   "URL": ""
+ },
+ {
+   "Id": 64,
+   "question": "Who is the author of this artwork?",
+   "choice1": "Andy Warholn",
+   "choice2": "Andy Warhol",
+   "choice3": "Andy Wanhol",
+   "choice4": "Andi Warrhol",
+   "answer": 2,
+   "URL": "https://res.cloudinary.com/diaagpm3o/image/upload/v1668200210/samples/Quiz/Q64_zow4a8.jpg"
+ },
+ {
+   "Id": 65,
+   "question": "What is the name of this painting?",
+   "choice1": "Naked woman",
+   "choice2": "How much is the oyster",
+   "choice3": "The Birth of Venus",
+   "choice4": "Passion of the Christ",
+   "answer": 3,
+   "URL": "https://res.cloudinary.com/diaagpm3o/image/upload/v1668200524/samples/Quiz/Q65_hufjaz.jpg"
+ },
+ {
+   "Id": 66,
+   "question": "Who is the author of this unique work?",
+   "choice1": "Hieronymous Bush",
+   "choice2": "Andrea Bocelli",
+   "choice3": "Clement Auguster",
+   "choice4": "Hieronymous Bosch",
+   "answer": 4,
+   "URL": "https://res.cloudinary.com/diaagpm3o/image/upload/v1668201040/samples/Quiz/Q66_uy6jz1.jpg"
+ },
+ {
+   "Id": 67,
+   "question": "What river runs through Paris?",
+   "choice1": "Seine",
+   "choice2": "Danube",
+   "choice3": "Volga",
+   "choice4": "Tagus",
+   "answer": 1,
+   "URL": ""
+ },
+ {
+   "Id": 68,
+   "question": "What university did Stephen Hawking go to?",
+   "choice1": "Harvard",
+   "choice2": "Johns Hopkins",
+   "choice3": "Cambridge",
+   "choice4": "Massachusetts",
+   "answer": 3,
+   "URL": ""
+ },
+ {
+   "Id": 69,
+   "question": "Who wrote \"No one is too small to make a difference\" ?",
+   "choice1": "Vladimir Putin",
+   "choice2": "Greta Thunberg",
+   "choice3": "Madonna",
+   "choice4": "Selena Gomez",
+   "answer": 2,
+   "URL": ""
+ },
+ {
+   "Id": 70,
+   "question": "How many valves does the heart have?",
+   "choice1": "1",
+   "choice2": "2",
+   "choice3": "2",
+   "choice4": "4",
+   "answer": 4,
+   "URL": ""
+ },
+ {
+   "Id": 71,
+   "question": "Jeff Bezos, CEO of Amazon, started his business in what room?",
+   "choice1": "Garage",
+   "choice2": "Toilet",
+   "choice3": "Kitchen",
+   "choice4": "Bedroom",
+   "answer": 1,
+   "URL": ""
+ },
+ {
+   "Id": 72,
+   "question": "Which social media app did Donald Trump try to block in the US?",
+   "choice1": "Facebook",
+   "choice2": "Instagram",
+   "choice3": "TikTok",
+   "choice4": "WhatsApp",
+   "answer": 3,
+   "URL": ""
+ },
+ {
+   "Id": 73,
+   "question": "What car brand makes the model \"DUSTER\"",
+   "choice1": "Honda",
+   "choice2": "Dacia",
+   "choice3": "Toyota",
+   "choice4": "VW",
+   "answer": 2,
+   "URL": ""
+ },
+ {
+   "Id": 74,
+   "question": "What type of nut is in the centre of a Ferrero Rocher?",
+   "choice1": "Acorn",
+   "choice2": "Hazelnut",
+   "choice3": "Peanut",
+   "choice4": "Pistachio",
+   "answer": 2,
+   "URL": ""
+ },
+ {
+   "Id": 75,
+   "question": "How many Elements are in the periodic table in 2022?",
+   "choice1": "118",
+   "choice2": "120",
+   "choice3": "105",
+   "choice4": "66",
+   "answer": 1,
+   "URL": ""
+ },
+ {
+   "Id": 76,
+   "question": "Which bird can fly backward?",
+   "choice1": "Capercaillie",
+   "choice2": "Hummingbird",
+   "choice3": "Egyptian goose",
+   "choice4": "Yellowhammer",
+   "answer": 2,
+   "URL": ""
+ },
+ {
+   "Id": 77,
+   "question": "Name a political leader who NOT was assassinated.",
+   "choice1": "Muammar Gaddafi",
+   "choice2": "Mahatma Gandhi",
+   "choice3": "King Faisal",
+   "choice4": "Vaclav Havel",
+   "answer": 4,
+   "URL": ""
+ },
+ {
+   "Id": 78,
+   "question": "What is the longest river in the world?",
+   "choice1": "Amazon",
+   "choice2": "Mississippi",
+   "choice3": "Nile",
+   "choice4": "Congo",
+   "answer": 3,
+   "URL": ""
+ },
+ {
+   "Id": 79,
+   "question": "How many people have walked on the moon until 2022?",
+   "choice1": "6",
+   "choice2": "12",
+   "choice3": "25",
+   "choice4": "28",
+   "answer": 2,
+   "URL": ""
+ },
+ {
+   "Id": 80,
+   "question": "In what year was the Chernobyl disaster?",
+   "choice1": "1986",
+   "choice2": "1985",
+   "choice3": "1980",
+   "choice4": "1979",
+   "answer": 1,
+   "URL": ""
+ },
+ {
+   "Id": 81,
+   "question": "Who wrote Oliver Twist?",
+   "choice1": "Edgar Allan Poe",
+   "choice2": "Charles Dickens",
+   "choice3": "Mark Twain",
+   "choice4": "Emily Dickinson",
+   "answer": 2,
+   "URL": ""
+ },
+ {
+   "Id": 82,
+   "question": "Who discovered Penicillin?",
+   "choice1": "Charles Darwin",
+   "choice2": "Robert Koch",
+   "choice3": "Alexander Fleming",
+   "choice4": "Thomas Henry Huxley",
+   "answer": 3,
+   "URL": ""
+ },
+ {
+   "Id": 83,
+   "question": "How many keys does a classic piano have?",
+   "choice1": "90",
+   "choice2": "88",
+   "choice3": "66",
+   "choice4": "50",
+   "answer": 2,
+   "URL": ""
+ },
+ {
+   "Id": 84,
+   "question": "How many countries of the world begin with the letter Z?",
+   "choice1": "2",
+   "choice2": "1",
+   "choice3": "3",
+   "choice4": "4",
+   "answer": 1,
+   "URL": ""
+ },
+ {
+   "Id": 85,
+   "question": "In 1990 who created the World Wide Web?",
+   "choice1": "Tim Berners-Lee",
+   "choice2": "Larry Page",
+   "choice3": "Bill Gates",
+   "choice4": "Mark Zuckerburg",
+   "answer": 1,
+   "URL": ""
+ },
+ {
+   "Id": 86,
+   "question": "Which city in the world was the first to have an underground Subway system?",
+   "choice1": "New York",
+   "choice2": "Paris",
+   "choice3": "London",
+   "choice4": "Berlin",
+   "answer": 3,
+   "URL": ""
+ },
+ {
+   "Id": 87,
+   "question": "In which year was Google officially launched?",
+   "choice1": "1985",
+   "choice2": "1990",
+   "choice3": "1998",
+   "choice4": "1898",
+   "answer": 3,
+   "URL": ""
+ },
+ {
+   "Id": 88,
+   "question": "What is painted on the picture?",
+   "choice1": "Lighthouse of Alexandria",
+   "choice2": "Colossus of Rhodes",
+   "choice3": "Great Pyramid of Giza",
+   "choice4": "Zeus at Olympia",
+   "answer": 2,
+   "URL": "https://res.cloudinary.com/diaagpm3o/image/upload/v1668245452/samples/Quiz/Q88_zjxxyv.jpg"
+ },
+ {
+   "Id": 89,
+   "question": "What year did the Titanic sink in the Atlantic Ocean?",
+   "choice1": "1905",
+   "choice2": "1912",
+   "choice3": "1920",
+   "choice4": "1925",
+   "answer": 2,
+   "URL": ""
+ },
+ {
+   "Id": 90,
+   "question": "What is the chemical symbol for silver?",
+   "choice1": "Au",
+   "choice2": "Sv",
+   "choice3": "Sr",
+   "choice4": "Ag",
+   "answer": 4,
+   "URL": ""
+ },
+ {
+   "Id": 91,
+   "question": "What is the doll Barbie’s full name?",
+   "choice1": "Beatrix Potter",
+   "choice2": "Barbara Millicent Roberts",
+   "choice3": "Barbara Palvin",
+   "choice4": "Bernadette Benitta",
+   "answer": 2,
+   "URL": ""
+ },
+ {
+   "Id": 92,
+   "question": "What is the tallest waterfall in the world?",
+   "choice1": "Angel Falls, Venezuela",
+   "choice2": "Niagara Falls, New York",
+   "choice3": "Waialua Falls, Hawaii",
+   "choice4": "Sutherland Falls, New Zealand",
+   "answer": 1,
+   "URL": ""
+ },
+ {
+   "Id": 93,
+   "question": "What is something the ancient Romans used as mouthwash?",
+   "choice1": "Saltwater",
+   "choice2": "Urine",
+   "choice3": "Mint tea",
+   "choice4": "Freshwater",
+   "answer": 2,
+   "URL": "https://res.cloudinary.com/diaagpm3o/image/upload/v1668246592/samples/Quiz/Q93_qk8nqe.jpg"
+ },
+ {
+   "Id": 94,
+   "question": "What dog has a water-resistant coat and webbed feet?",
+   "choice1": "Labrador",
+   "choice2": "Chihuahua",
+   "choice3": "Newfoundland",
+   "choice4": "St. Bernard",
+   "answer": 3,
+   "URL": ""
+ },
+ {
+   "Id": 95,
+   "question": "Which planet is closest to the sun?",
+   "choice1": "Venus",
+   "choice2": "Mars",
+   "choice3": "Mercury",
+   "choice4": "Earth",
+   "answer": 3,
+   "URL": ""
+ },
+ {
+   "Id": 96,
+   "question": "How many bones does a shark have?",
+   "choice1": "60",
+   "choice2": "70",
+   "choice3": "80",
+   "choice4": "None",
+   "answer": 4,
+   "URL": ""
+ },
+ {
+   "Id": 97,
+   "question": "Where in the human body would find the medulla oblongata?",
+   "choice1": "Spine",
+   "choice2": "Brain",
+   "choice3": "Heart",
+   "choice4": "Kidney",
+   "answer": 2,
+   "URL": ""
+ },
+ {
+   "Id": 98,
+   "question": "How many hearts does an octopus have?",
+   "choice1": "0",
+   "choice2": "1",
+   "choice3": "2",
+   "choice4": "3",
+   "answer": 4,
+   "URL": ""
+ },
+ {
+   "Id": 99,
+   "question": "Goa was a colony of which country?",
+   "choice1": "France",
+   "choice2": "England",
+   "choice3": "Portugal",
+   "choice4": "Poland",
+   "answer": 3,
+   "URL": ""
+ },
+ {
+   "Id": 100,
+   "question": "In which year was slavery abolished in the USA?",
+   "choice1": "1820",
+   "choice2": "1900",
+   "choice3": "1865",
+   "choice4": "1880",
+   "answer": 3,
+   "URL": ""
+ },
+ {
+   "Id": 101,
+   "question": "Find a solution.",
+   "choice1": "5",
+   "choice2": "10",
+   "choice3": "15",
+   "choice4": "20",
+   "answer": 1,
+   "URL": "https://res.cloudinary.com/diaagpm3o/image/upload/v1668250182/samples/Quiz/Q101_nlosgz.jpg"
+ },
+ {
+   "Id": 102,
+   "question": "What number completes the sequence of these numbers? (4, 11, 18, ?)",
+   "choice1": "24",
+   "choice2": "25",
+   "choice3": "28",
+   "choice4": "27",
+   "answer": 2,
+   "URL": ""
+ },
+ {
+   "Id": 103,
+   "question": "If (2=6, 3=12, 5=30) then (7 = ?)",
+   "choice1": "45",
+   "choice2": "50",
+   "choice3": "56",
+   "choice4": "66",
+   "answer": 3,
+   "URL": ""
+ },
+ {
+   "Id": 104,
+   "question": "Find a solution.",
+   "choice1": "8",
+   "choice2": "4",
+   "choice3": "2",
+   "choice4": "16",
+   "answer": 2,
+   "URL": "https://res.cloudinary.com/diaagpm3o/image/upload/v1668250790/samples/Quiz/Q104_qxikme.jpg"
+ },
+ {
+   "Id": 105,
+   "question": "In which city is located this UFO bridge?",
+   "choice1": "Bucharest",
+   "choice2": "Bratislava",
+   "choice3": "Budapest",
+   "choice4": "Berlin",
+   "answer": 2,
+   "URL": ""
+ },
+ {
+   "Id": 106,
+   "question": "What fraction of the pizza is left on the plate?",
+   "choice1": "(8/7)",
+   "choice2": "(7/8)",
+   "choice3": "(7/4)",
+   "choice4": "(6/8)",
+   "answer": 2,
+   "URL": "https://res.cloudinary.com/diaagpm3o/image/upload/v1668252193/samples/Quiz/Q106_adinqu.jpg"
+ }
+]
